@@ -13,4 +13,4 @@
 #### - El uso del bucle for permite replicar una tarea con ligeras variaciones en ellas
 #### - El bucle for esta compuesto por "do" y "done". Que son necesarioos para su ejecución 
 #### - ;: El punto y coma permiten escribir el codigo de manera continua
-#### - grep: Este comando permite buscar una palabra o patrón, para poder imprimior la línea o líneas que este contenga
+#### - grep: Este comando permite buscar una palabra o patrón, para poder imprimir la línea o líneas que este contenga
