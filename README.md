@@ -8,3 +8,6 @@ Para este ejercicio trabajaré con el archivo n16 dentro de Saavedra2013
 - wc -l: cuenta el número de lioneas en un determinado archivo. 
 - head: permite vizualizar las primeras 10 filas 
 - tr: translación de caracteres originales y de cambio
+Parte dos del deber
+# Deber Escriba un guión que imprima el número de filas y columnas para cada red 
+
