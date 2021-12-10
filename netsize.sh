@@ -1,4 +1,4 @@
-# Ejercicio Nº 1  de  Bioinformática
+# Primera parte del deber Nº 1  de  Bioinformática
 
 ## Escriba un guión que tome uno de estos archivos y determine el número de filas (polinizadores) y columnas (plantas).
 
