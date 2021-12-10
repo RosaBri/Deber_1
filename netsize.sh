@@ -4,7 +4,7 @@
 
 - A continuación los comandos utilizados para resolver la primera parte del deber
 
-- cat n10.txt
+- cat n16.txt
 
 - cat ../Saavedra2013/n16.txt | wc -l
 
