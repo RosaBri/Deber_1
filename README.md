@@ -6,5 +6,4 @@ Parte uno del deber
 Para este ejercicio trabajaré con el archivo n16 dentro de Saavedra2013
 - cat: sirve para imprimir los arcivos que contiene. Cualquier fila 
 - wc -l: cuenta el número de lioneas en un determinado archivo. 
-
-
+- head: permite vizualizar las primeras 10 filas 
