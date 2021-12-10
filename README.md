@@ -11,4 +11,4 @@ Para este ejercicio trabajaré con el archivo n16 dentro de Saavedra2013
 Parte dos del deber
 # Deber Escriba un guión que imprima el número de filas y columnas para cada red 
 - El uso del bucle for permite replicar una tarea con ligeras variaciones en ellas
-
+- El bucle for esta compuesto por "do" y "done". Que son necesarioos para su ejecución 
