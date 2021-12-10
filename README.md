@@ -12,3 +12,4 @@ Parte dos del deber
 # Deber Escriba un guión que imprima el número de filas y columnas para cada red 
 - El uso del bucle for permite replicar una tarea con ligeras variaciones en ellas
 - El bucle for esta compuesto por "do" y "done". Que son necesarioos para su ejecución 
+- ;: El punto y coma permiten escribir el codigo de manera continua
