@@ -6,3 +6,4 @@
 
 - cat ../Saavedra2013/n10.txt | wc -l
 
+- head -n1 ../Saavedra2013/n10.txt | tr -d " " | trs -d "\ n" | wc -c
